@@ -1,0 +1,9 @@
+{
+  "name": "Carturs_Blacksmithing",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/jekkle/cartur-blacksmithing",
+  "description": "Weapons and armour on the Crafting skill you already have: up to double durability, extra workbench and forge levels, repair from the inventory at 70, one more upgrade at 80. Inspired by Smoothbrain's Blacksmithing.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
